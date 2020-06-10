@@ -1,16 +1,18 @@
 --- 
 title: "A Minimal Book Example"
-author: "Yihui Xie"
+author: "Huang"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "这是使用bookdwon编写的书籍，用于测试所有，基于bookdown-demo。"
 ---
 
 # Prerequisites
+
+这是中文测试。
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
